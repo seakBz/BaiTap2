@@ -1,0 +1,76 @@
+﻿@using BaiTap2.Models;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    List<Diem> DataResponts = new List<Diem>();
+    DataResponts = (List<Diem>)ViewData["lstDiem"];
+}
+
+<style>
+    .btn {
+        font-size: 11px;
+    }
+
+    ._tbody {
+        color: white;
+        font-family: 'Times New Roman';
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    #sel {
+        font-size: 11px;
+        height: 30px;
+    }
+</style>
+<div class="container">
+    <h2>Bảng Điểm Sinh Viên</h2>
+    <br />
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-md-4">Sinh viên: Ngô Đình Phúc </div>
+        <div class="col-md-2">Mã số: 15150178</div>
+        <div class="col-md-2">Lớp quản lý: KTPM14 </div>
+    </div>
+    <br />
+    <div>
+        <div class="table-responsive">
+            <table id="_data" class="table table-hover table table-bordered table-striped" style="border:solid 1px #ddd;">
+                <thead>
+                    <tr style="text-align:center">
+                        <th>STT</th>
+                        <th>Tên học phần</th>
+                        <th>Số Tín</th>
+                        <th>HK(CTĐT)</th>
+                        <th>HK(hp)</th>
+                        <th>Điểm số</th>
+                        <th>Điểm chữ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (Diem d in DataResponts)
+                        {
+                            <tr>
+                                <td>@d.Stt</td>
+                                <td>@d.Name</td>
+                                <td>@d.SoTin</td>
+                                <td>@d.HK_DT</td>
+                                <td>@d.HK_HP</td>
+                                <td>@d.TongDiem</td>
+                                <td>@d.DiemChu</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="row">
+            <div class="col-md-9">  </div>
+            <div class="col-md-3">Tổng Số Tín: <span id="TongTinThuc"></span>  / <span id="TongTinDaHoc"></span></div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,290 @@
+[
+  {
+    "Stt": "1",
+    "Name": "Điện tử số + BTL",
+    "SoTin": 2,
+    "HK_DT": "2017-2018",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 6.8,
+    "DiemChu": "C+"
+  },
+  {
+    "Stt": "2",
+    "Name": "Lý thuyết hệ điều hành",
+    "SoTin": 3,
+    "HK_DT": "2017-2018",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 6.5,
+    "DiemChu": "C+"
+  },
+  {
+    "Stt": "3",
+    "Name": "Ngôn ngữ lập trình 2",
+    "SoTin": 2,
+    "HK_DT": "2017-2018",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 8.4,
+    "DiemChu": "B+"
+  },
+  {
+    "Stt": "4",
+    "Name": "Cơ sở dữ liệu",
+    "SoTin": 4,
+    "HK_DT": "2017-2018",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 8.7,
+    "DiemChu": "A"
+  },
+  {
+    "Stt": "5",
+    "Name": "Đảm bảo và an toàn thông tin",
+    "SoTin": 3,
+    "HK_DT": "2017-2018",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 9.2,
+    "DiemChu": "A+"
+  },
+  {
+    "Stt": "6",
+    "Name": "Phân tích và thiết kế giải thuật",
+    "SoTin": 3,
+    "HK_DT": "2017-2018",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 9.3,
+    "DiemChu": "A+"
+  },
+  {
+    "Stt": "7",
+    "Name": "Đường lối cách mạng của Đảng cộng sản Việt Nam",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 7.3,
+    "DiemChu": "B"
+  },
+  {
+    "Stt": "8",
+    "Name": "Mạng máy tính",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 8.8,
+    "DiemChu": "A"
+  },
+  {
+    "Stt": "9",
+    "Name": "Toán rời rạc	",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 0,
+    "DiemChu": "F"
+  },
+  {
+    "Stt": "10",
+    "Name": "Lập trình hướng đối tượng",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 9.7,
+    "DiemChu": "A+"
+  },
+  {
+    "Stt": "11",
+    "Name": "Thực tập kỹ thuật lập trình	",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 9.6,
+    "DiemChu": "A+"
+  },
+  {
+    "Stt": "12",
+    "Name": "Chạy cự ly trung bình",
+    "SoTin": 1,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 8,
+    "DiemChu": "B+"
+  },
+  {
+    "Stt": "13",
+    "Name": "Cấu trúc máy tính",
+    "SoTin": 2,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 5.5,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "14",
+    "Name": "Vật lý đại cương 2",
+    "SoTin": 4,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 7.1,
+    "DiemChu": "B"
+  },
+  {
+    "Stt": "15",
+    "Name": "Vật lý đại cương 1",
+    "SoTin": 4,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 5.2,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "16",
+    "Name": "Tư tưởng Hồ Chí Minh + TL",
+    "SoTin": 2,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 6.8,
+    "DiemChu": "C+"
+  },
+  {
+    "Stt": "17",
+    "Name": "Lý thuyết xác suất thống kê",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 0,
+    "DiemChu": "F"
+  },
+  {
+    "Stt": "18",
+    "Name": "Thí nghiệm Vật lý đại cương 2",
+    "SoTin": 1,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 6.1,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "19",
+    "Name": "Ngôn ngữ lập trình 1",
+    "SoTin": 2,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 7.4,
+    "DiemChu": "B"
+  },
+  {
+    "Stt": "20",
+    "Name": "Kỹ thuật lập trình",
+    "SoTin": 3,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 9.9,
+    "DiemChu": "A+"
+  },
+  {
+    "Stt": "21",
+    "Name": "Cầu lông",
+    "SoTin": 1,
+    "HK_DT": "2016-2017",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 7,
+    "DiemChu": "B"
+  },
+  {
+    "Stt": "22",
+    "Name": "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin 2",
+    "SoTin": 3,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 4.8,
+    "DiemChu": "D"
+  },
+  {
+    "Stt": "23",
+    "Name": "Giải tích 2",
+    "SoTin": 4,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 6.2,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "24",
+    "Name": "Thí nghiệm Vật lý đại cương 1",
+    "SoTin": 1,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 6.8,
+    "DiemChu": "C+"
+  },
+  {
+    "Stt": "25",
+    "Name": "Hình họa và vẽ kỹ thuật cơ bản + BTL",
+    "SoTin": 2,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 6.2,
+    "DiemChu": "C+"
+  },
+  {
+    "Stt": "26",
+    "Name": "Giáo dục thể chất cơ bản	",
+    "SoTin": 1,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 6,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "27",
+    "Name": "Công tác quốc phòng - an ninh",
+    "SoTin": 2,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 2",
+    "TongDiem": 6.4,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "28",
+    "Name": "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin 1",
+    "SoTin": 2,
+    "HK_DT": " 2015-2016",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 6.7,
+    "DiemChu": "C+"
+  },
+  {
+    "Stt": "29",
+    "Name": "Hình giải tích và đại số tuyến tính",
+    "SoTin": 3,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 5.7,
+    "DiemChu": "C"
+  },
+  {
+    "Stt": "30",
+    "Name": "Giải tích 1",
+    "SoTin": 4,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 5.4,
+    "DiemChu": "D+"
+  },
+  {
+    "Stt": "31",
+    "Name": "Lập trình cơ bản",
+    "SoTin": 3,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 8.5,
+    "DiemChu": "A"
+  },
+  {
+    "Stt": "32",
+    "Name": "Quân sự chung và chiến thuật, kỹ thuật bắn súng TLAK",
+    "SoTin": 3,
+    "HK_DT": "2015-2016",
+    "HK_HP": "HỌC KỲ 1",
+    "TongDiem": 6.3,
+    "DiemChu": "C"
+  }
+]
